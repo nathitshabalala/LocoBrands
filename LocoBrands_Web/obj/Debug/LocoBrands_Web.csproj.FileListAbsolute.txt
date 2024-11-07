@@ -1,0 +1,428 @@
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.CoreCompileInputs.cache
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\LocoBrands_Web.dll.config
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\LocoBrands_Web.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\LocoBrands_Web.pdb
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\csc.exe
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\csc.exe.config
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\csc.rsp
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\csi.exe
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\csi.exe.config
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\csi.rsp
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.AppContext.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.Console.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\vbc.exe
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\vbc.exe.config
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\vbc.rsp
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.CopyComplete
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\obj\Debug\LocoBrands_Web.dll
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\obj\Debug\LocoBrands_Web.pdb
+C:\Users\NATHI\Desktop\Group Project\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\LocoBrands_Web.dll.config
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\LocoBrands_Web.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\LocoBrands_Web.pdb
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csc.exe
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csc.exe.config
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csc.rsp
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csi.exe
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csi.exe.config
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csi.rsp
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.AppContext.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Console.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\vbc.exe
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\vbc.exe.config
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\vbc.rsp
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.CopyComplete
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.dll
+C:\Users\User\Downloads\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.pdb
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\LocoBrands_Web.dll.config
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\LocoBrands_Web.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\LocoBrands_Web.pdb
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.AssemblyReference.cache
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.CoreCompileInputs.cache
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.CopyComplete
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.pdb
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csc.exe
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csc.exe.config
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csc.rsp
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csi.exe
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csi.exe.config
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csi.rsp
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.AppContext.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Console.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\vbc.exe
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\vbc.exe.config
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\vbc.rsp
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\BouncyCastle.Crypto.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\itextsharp.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Web\LocoBrands_Web\bin\itextsharp.xml
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\LocoBrands_Web.dll.config
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\LocoBrands_Web.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\LocoBrands_Web.pdb
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\BouncyCastle.Crypto.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\itextsharp.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\itextsharp.xml
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.pdb
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csc.exe
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csc.exe.config
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csc.rsp
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csi.exe
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csi.exe.config
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csi.rsp
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.AppContext.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Console.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\vbc.exe
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\vbc.exe.config
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\vbc.rsp
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\LocoBrands_Web.dll.config
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\LocoBrands_Web.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\LocoBrands_Web.pdb
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csc.exe
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csc.exe.config
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csc.rsp
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csi.exe
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csi.exe.config
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csi.rsp
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.AppContext.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Console.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\vbc.exe
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\vbc.exe.config
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\vbc.rsp
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\BouncyCastle.Crypto.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\itextsharp.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\itextsharp.xml
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.AssemblyReference.cache
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.CoreCompileInputs.cache
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.CopyComplete
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.pdb
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\LocoBrands_Web.dll.config
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\LocoBrands_Web.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\LocoBrands_Web.pdb
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csc.exe
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csc.exe.config
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csc.rsp
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csi.exe
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csi.exe.config
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\csi.rsp
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.AppContext.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Console.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\vbc.exe
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\vbc.exe.config
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\vbc.rsp
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\BouncyCastle.Crypto.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\itextsharp.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\itextsharp.xml
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.AssemblyReference.cache
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.CoreCompileInputs.cache
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.CopyComplete
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Web\LocoBrands_Web\obj\Debug\LocoBrands_Web.pdb
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\LocoBrands_Web.dll.config
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\LocoBrands_Web.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\LocoBrands_Web.pdb
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\csc.exe
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\csc.exe.config
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\csc.rsp
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\csi.exe
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\csi.exe.config
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\csi.rsp
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.AppContext.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.Console.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\vbc.exe
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\vbc.exe.config
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\vbc.rsp
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\BouncyCastle.Crypto.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\itextsharp.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\itextsharp.xml
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.AssemblyReference.cache
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.CoreCompileInputs.cache
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\obj\Debug\LocoBrands_Web.csproj.CopyComplete
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\obj\Debug\LocoBrands_Web.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Web\obj\Debug\LocoBrands_Web.pdb

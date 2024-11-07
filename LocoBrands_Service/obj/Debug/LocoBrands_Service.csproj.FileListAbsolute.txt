@@ -1,0 +1,49 @@
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\LocoBrands_Service\bin\LocoBrands_Service.dll.config
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\LocoBrands_Service\bin\LocoBrands_Service.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\LocoBrands_Service\bin\LocoBrands_Service.pdb
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\LocoBrands_Service\obj\Debug\LocoBrands_Service.csproj.AssemblyReference.cache
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\LocoBrands_Service\obj\Debug\LocoBrands_Service.csproj.CoreCompileInputs.cache
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\LocoBrands_Service\obj\Debug\LocoBrands_Service.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\LocoBrands_Service\obj\Debug\LocoBrands_Service.pdb
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Service\bin\LocoBrands_Service.dll.config
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Service\bin\LocoBrands_Service.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Service\bin\LocoBrands_Service.pdb
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Service\obj\Debug\LocoBrands_Service.csproj.AssemblyReference.cache
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Service\obj\Debug\LocoBrands_Service.csproj.CoreCompileInputs.cache
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Service\obj\Debug\LocoBrands_Service.dll
+C:\Users\tokel\Desktop\2B_Informatics\Group Project\Mandla Changes\LocoBrands_Service\obj\Debug\LocoBrands_Service.pdb
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Service\bin\LocoBrands_Service.dll.config
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Service\bin\LocoBrands_Service.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Service\bin\LocoBrands_Service.pdb
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Service\obj\Debug\LocoBrands_Service.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Service\obj\Debug\LocoBrands_Service.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Service\obj\Debug\LocoBrands_Service.dll
+C:\Users\User\OneDrive\Desktop\LocoBrands\LocoBrands_Service\obj\Debug\LocoBrands_Service.pdb
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Service\bin\LocoBrands_Service.dll.config
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Service\bin\LocoBrands_Service.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Service\bin\LocoBrands_Service.pdb
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Service\obj\Debug\LocoBrands_Service.csproj.AssemblyReference.cache
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Service\obj\Debug\LocoBrands_Service.csproj.CoreCompileInputs.cache
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Service\obj\Debug\LocoBrands_Service.dll
+C:\Users\Peo\Desktop\LocoBrands\LocoBrands_Service\obj\Debug\LocoBrands_Service.pdb
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Service\bin\LocoBrands_Service.dll.config
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Service\bin\LocoBrands_Service.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Service\bin\LocoBrands_Service.pdb
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Service\obj\Debug\LocoBrands_Service.csproj.AssemblyReference.cache
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Service\obj\Debug\LocoBrands_Service.csproj.CoreCompileInputs.cache
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Service\obj\Debug\LocoBrands_Service.dll
+C:\Users\Peo\Desktop\Project\V.03\LocoBrands\LocoBrands_Service\obj\Debug\LocoBrands_Service.pdb
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Service\bin\LocoBrands_Service.dll.config
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Service\bin\LocoBrands_Service.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Service\bin\LocoBrands_Service.pdb
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Service\obj\Debug\LocoBrands_Service.csproj.AssemblyReference.cache
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Service\obj\Debug\LocoBrands_Service.csproj.CoreCompileInputs.cache
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Service\obj\Debug\LocoBrands_Service.dll
+C:\Users\NATHI\Desktop\FINAL GROUP PROJECT\LocoBrands\LocoBrands_Service\obj\Debug\LocoBrands_Service.pdb
+C:\Users\NATHI\Desktop\LocoBrands Project\LocoBrands\LocoBrands_Service\bin\LocoBrands_Service.dll.config
+C:\Users\NATHI\Desktop\LocoBrands Project\LocoBrands\LocoBrands_Service\bin\LocoBrands_Service.dll
+C:\Users\NATHI\Desktop\LocoBrands Project\LocoBrands\LocoBrands_Service\bin\LocoBrands_Service.pdb
+C:\Users\NATHI\Desktop\LocoBrands Project\LocoBrands\LocoBrands_Service\obj\Debug\LocoBrands_Service.csproj.AssemblyReference.cache
+C:\Users\NATHI\Desktop\LocoBrands Project\LocoBrands\LocoBrands_Service\obj\Debug\LocoBrands_Service.csproj.CoreCompileInputs.cache
+C:\Users\NATHI\Desktop\LocoBrands Project\LocoBrands\LocoBrands_Service\obj\Debug\LocoBrands_Service.dll
+C:\Users\NATHI\Desktop\LocoBrands Project\LocoBrands\LocoBrands_Service\obj\Debug\LocoBrands_Service.pdb
